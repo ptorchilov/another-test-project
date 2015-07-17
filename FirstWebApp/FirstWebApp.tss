@@ -22,5 +22,50 @@
     <ArrayOfString>
       <string>D:\Test Solutions\TestVS2013\FirstWebApp\FirstWebApp\Web.config</string>
     </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Test Solutions\TestVS2013\FirstWebApp\FirstWebApp\Models\IdentityModels.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Test Solutions\TestVS2013\FirstWebApp\FirstWebApp\Views\Shared\_Layout.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Test Solutions\TestVS2013\FirstWebApp\FirstWebApp\Controllers\StudentController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Test Solutions\TestVS2013\FirstWebApp\FirstWebApp\Controllers\CourceController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Test Solutions\TestVS2013\FirstWebApp\FirstWebApp\Controllers\DepartmentController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Test Solutions\TestVS2013\FirstWebApp\Domain\Interfaces\IDomainModel.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Test Solutions\TestVS2013\FirstWebApp\Domain\Models\BaseDomainModel.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Test Solutions\TestVS2013\FirstWebApp\Domain\Models\Enrollment.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Test Solutions\TestVS2013\FirstWebApp\Domain\Configurations\BaseConfiguration.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Test Solutions\TestVS2013\FirstWebApp\Domain\Configurations\StudentConfiguration.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Test Solutions\TestVS2013\FirstWebApp\Domain\Models\Student.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Object Browser</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Test Solutions\TestVS2013\FirstWebApp\Domain\Configurations\EnrollmentConfiguration.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Test Solutions\TestVS2013\FirstWebApp\Domain\Models\Course.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Test Solutions\TestVS2013\FirstWebApp\Domain\Configurations\CourseConfiguration.cs</string>
+    </ArrayOfString>
   </ArrayOfArrayOfString>
 </ArrayOfArrayOfArrayOfString>
