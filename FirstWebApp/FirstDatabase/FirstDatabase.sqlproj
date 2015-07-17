@@ -107,6 +107,7 @@
     <Folder Include="Properties" />
     <Folder Include="dbo\" />
     <Folder Include="dbo\Tables\" />
+    <Folder Include="Snapshots" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\AspNetRoles.sql">
@@ -133,5 +134,10 @@
       <AnsiNulls>On</AnsiNulls>
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
+    <Build Include="dbo\Tables\Numbers.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FirstDatabase.publish.xml" />
+    <None Include="Snapshots\Baseline.dacpac" />
   </ItemGroup>
 </Project>
