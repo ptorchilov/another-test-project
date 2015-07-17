@@ -1,8 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Domain.Models
 {
-    public class StudentModel : BaseDomainModel
+    public class Student : BaseDomainModel
     {
         public int StudentId { get; set; }
 
@@ -11,5 +12,7 @@ namespace Domain.Models
         public string FirstName { get; set; }
 
         public DateTime EnrollmentDate { get; set; }
+
+        public IList<Enrollment> Enrollments { get; set; }
     }
 }
