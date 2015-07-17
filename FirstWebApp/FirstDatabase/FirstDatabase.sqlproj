@@ -135,6 +135,9 @@
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
     <Build Include="dbo\Tables\Numbers.sql" />
+    <Build Include="dbo\Tables\Students.sql" />
+    <Build Include="dbo\Tables\Enrollment.sql" />
+    <Build Include="dbo\Tables\Courses.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="FirstDatabase.publish.xml" />
